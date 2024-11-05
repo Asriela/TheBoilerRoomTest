@@ -1,0 +1,2 @@
+Describe the differences between AR and VR development in Unity, including the use of
+XRSession and XRNode. (10 points)

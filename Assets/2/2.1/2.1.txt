@@ -1,0 +1,2 @@
+ Describe the Unity scene hierarchy and how it relates to GameObjects and
+Components. (10 points)

@@ -1,0 +1,3 @@
+Describe the principles of inheritance, polymorphism, and encapsulation in OOP. (10
+points)
+

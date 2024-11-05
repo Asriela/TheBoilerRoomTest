@@ -1,0 +1,1 @@
+Explain the difference between MonoBehaviours and ScriptableObjects. (10 points)

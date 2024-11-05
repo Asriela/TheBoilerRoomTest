@@ -1,0 +1,2 @@
+ Explain the concept of a Render Pipeline in Unity and how it affects rendering. (10
+points)

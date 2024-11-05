@@ -1,0 +1,2 @@
+Explain how to set up a basic XR project in Unity, including camera configuration using
+XRCamera and XRNode. (10 points)
